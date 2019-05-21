@@ -1,0 +1,7 @@
+C:\Users\Yigit\Documents\Visual Studio 2017\Projects\Check24CodeTask\Check24CodeTask\bin\Debug\Check24CodeTask.exe.config
+C:\Users\Yigit\Documents\Visual Studio 2017\Projects\Check24CodeTask\Check24CodeTask\bin\Debug\Check24CodeTask.exe
+C:\Users\Yigit\Documents\Visual Studio 2017\Projects\Check24CodeTask\Check24CodeTask\bin\Debug\Check24CodeTask.pdb
+C:\Users\Yigit\Documents\Visual Studio 2017\Projects\Check24CodeTask\Check24CodeTask\obj\Debug\Check24CodeTask.csprojAssemblyReference.cache
+C:\Users\Yigit\Documents\Visual Studio 2017\Projects\Check24CodeTask\Check24CodeTask\obj\Debug\Check24CodeTask.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\Documents\Visual Studio 2017\Projects\Check24CodeTask\Check24CodeTask\obj\Debug\Check24CodeTask.exe
+C:\Users\Yigit\Documents\Visual Studio 2017\Projects\Check24CodeTask\Check24CodeTask\obj\Debug\Check24CodeTask.pdb
